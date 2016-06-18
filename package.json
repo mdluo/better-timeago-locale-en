@@ -1,0 +1,31 @@
+{
+  "name": "better-timeago-locale-en",
+  "version": "1.0.0",
+  "description": "English locale package for better-timeago",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdluo/better-timeago-locale-en.git"
+  },
+  "keywords": [
+    "better-timeago",
+    "Timeago",
+    "English",
+    "Timestamp",
+    "Datetime",
+    "Date",
+    "Time",
+    "Formatter",
+    "Human",
+    "Readable"
+  ],
+  "author": "Mingdong Luo <mdluo@nsmss.com> (https://github.com/mdluo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdluo/better-timeago-locale-en/issues"
+  },
+  "homepage": "https://github.com/mdluo/better-timeago-locale-en#readme"
+}
