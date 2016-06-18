@@ -16,14 +16,14 @@ module.exports = {
     }
   },
   units: {
-    moment:   ["Just now"],
-    second:   [" second", "s"],
-    minute:   [" minute", "m"],
-    hour:     [" hour", "h"],
-    day:      [" day", "d"],
-    week:     [" week", " week"],
-    month:    [" month", " month"],
-    year:     [" year", " year"]
+    moment:   ["Just now", "Just now", ""],
+    second:   [" second", "s", "s"],
+    minute:   [" minute", "m", "s"],
+    hour:     [" hour", "h", "s"],
+    day:      [" day", "d", "s"],
+    week:     [" week", " week", "s"],
+    month:    [" month", " month", "s"],
+    year:     [" year", " year", "s"]
   },
   types: {
     relative: {

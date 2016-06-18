@@ -1,6 +1,6 @@
 {
   "name": "better-timeago-locale-en",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "English locale package for better-timeago",
   "main": "index.js",
   "scripts": {
